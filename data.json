@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+                    "brand":"Samsung", 
+                    "Image":"/practice/src/assets/samsung.jpg",
+                    "price": "R10000"
+                  },
+                  {
+                    "brand":"Apple", 
+                    "Image":"/practice/src/assets/phonesss.jpg",
+                    "price": "R10000"
+                  },
+                  {
+                    "brand":"LG", 
+                    "Image":"/practice/src/assets/LG.jpg",
+                    "price": "R10000"
+                  },
+                  {
+                    "brand":"Sony", 
+                    "Image":"/practice/src/assets/sony.png",
+                    "price": "R10000"
+                  }
+
+    ]
+}
